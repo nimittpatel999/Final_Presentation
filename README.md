@@ -19,4 +19,4 @@ g++ main.cpp Game.cpp Player.cpp Board.cpp -o game
 ## Author
 Nimitt Patel
 
-YouTube link : https://youtu.be/_f_saAco-rM
+YouTube link : https://youtu.be/S2lydxryRRM
